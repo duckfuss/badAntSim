@@ -4,7 +4,7 @@ a bad ant simulator
 requires pymunk library
 
 
-# Keybindings:
+## Keybindings:
 LMB = add ant
 
 SCROLL = add many ants
